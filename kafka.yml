@@ -125,7 +125,7 @@ spec:
                 - key: app
                   operator: In
                   values:
-                  - kafka-container
+                  - kafka-app
               topologyKey: kubernetes.io/hostname
 
 ---
