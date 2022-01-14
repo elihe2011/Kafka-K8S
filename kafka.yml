@@ -99,7 +99,7 @@ spec:
             - name: CLUSTER_ID
               value: 9dJzdGvfTPaCY4e8klXaDQ
             - name: SERVICE
-              value: kafka-svc
+              value: kafka-headless
             - name: NAMESPACE
               value: kafka-cluster
             - name: SHARE_DIR
